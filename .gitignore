@@ -1,0 +1,4 @@
+.venv/
+raw.csv
+__pycache__/
+*.pyc
