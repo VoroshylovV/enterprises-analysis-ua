@@ -7,7 +7,8 @@
 ## Інтерактивна візуалізація
 
 Повний інтерактивний дашборд з розподілом підприємств за регіонами, галузями та статтю керівника — на Tableau Public:
-[Активні підприємства України, 2025](https://public.tableau.com/app/profile/volodymyr.voroshylov/viz/UkraineActiveEnterprises2025/2025)
+[Активні підприємства України, 2025](https://public.tableau.com/app/profile/volodymyr.voroshylov/viz/2025_17874195058340/2025
+)
 
 Дашборд дозволяє фільтрувати за регіоном і переглядати деталізацію по галузях. Статичні графіки з ключовими висновками — нижче та в [docs/full_analysis.md](docs/full_analysis.md).
 
